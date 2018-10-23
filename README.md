@@ -1,2 +1,3 @@
 # Ocelot.ConfigAuthLimitCache
-Ocelot.ConfigAuthLimitCache
+此项目已经重写了Ocelot配置文件的获取方式，改为从数据库中进行获取，目前已经实现了mssql。具体其他的可以自行参考代码进行扩展。接下来将继续扩展认证以及限流方法。实现网关对每个客户单对每个API的访问进行限流
+
